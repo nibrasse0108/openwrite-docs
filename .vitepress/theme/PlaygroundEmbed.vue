@@ -1,7 +1,7 @@
 <template>
   <div class="playground-embed">
     <iframe
-      src="/playground.html"
+      src="/playground-app.html"
       title="OpenWrite Playground"
       allowfullscreen
     />
