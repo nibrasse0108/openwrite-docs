@@ -77,13 +77,6 @@ export default defineConfig({
       { text: 'Guide', link: '/guide/', activeMatch: '/guide/' },
       { text: 'API Reference', link: '/api/editor-props', activeMatch: '/api/' },
       { text: 'Playground', link: '/playground', activeMatch: '/playground' },
-      {
-        text: 'v0.1.0',
-        items: [
-          { text: 'Changelog', link: 'https://github.com/your-org/openwrite/blob/main/CHANGELOG.md' },
-          { text: 'Contributing', link: 'https://github.com/your-org/openwrite/blob/main/CONTRIBUTING.md' },
-        ],
-      },
     ],
 
     sidebar: {
