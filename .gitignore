@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# VitePress build output
+.vitepress/dist/
+.vitepress/cache/
+
+# Demo assets copied at build time (generated from openwrite/demo-dist)
+public/assets/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo

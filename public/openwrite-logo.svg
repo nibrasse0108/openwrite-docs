@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <g transform="translate(4, 4)">
+    <path d="M36 52 L16 38 L28 22 L36 28 L44 22 L56 38 Z" fill="#2787d6"/>
+    <path d="M36 8 L26 28 L36 34 L46 28 Z" fill="#2787d6"/>
+    <line x1="36" y1="14" x2="36" y2="34" stroke="white" stroke-width="1.8"/>
+  </g>
+  <text x="78" y="52" font-family="'Segoe UI', system-ui, sans-serif" font-size="30" font-weight="700" fill="#2787d6" letter-spacing="-0.5">OpenWrite</text>
+</svg>

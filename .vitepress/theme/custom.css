@@ -1,0 +1,23 @@
+:root {
+  --vp-nav-logo-height: 40px;
+}
+
+.VPHero .image-src {
+  max-width: 380px !important;
+  width: 380px !important;
+}
+
+@media (max-width: 768px) {
+  .VPHero .name {
+    display: none !important;
+  }
+}
+
+/* VitePress sets width = height via the variable — override for wide logos */
+.VPNavBarTitle .logo {
+  height: 40px !important;
+  width: auto !important;
+  max-width: 200px !important;
+  max-height: unset !important;
+  object-fit: contain;
+}
