@@ -5,9 +5,6 @@ node_modules/
 .vitepress/dist/
 .vitepress/cache/
 
-# Demo assets copied at build time (generated from openwrite/demo-dist)
-public/assets/
-
 # Environment
 .env
 .env.local
@@ -22,3 +19,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+
+README.md
