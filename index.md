@@ -76,5 +76,5 @@ export default function App() {
 ```
 
 <div style="margin-top: 2rem; text-align: center;">
-  <a href="/guide/" style="display:inline-block;padding:0.6rem 1.4rem;background:#2563eb;color:#fff;border-radius:8px;font-weight:600;text-decoration:none;">Read the full guide →</a>
+  <a href="/guide/" style="display:inline-block;padding:0.6rem 1.4rem;background:#2787d6;color:#fff;border-radius:8px;font-weight:600;text-decoration:none;">Read the full guide →</a>
 </div>
