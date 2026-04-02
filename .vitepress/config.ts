@@ -61,7 +61,7 @@ export default defineConfig({
   lang: 'en-US',
 
   head: [
-    ['meta', { name: 'theme-color', content: '#2563eb' }],
+    ['meta', { name: 'theme-color', content: '#2787d6' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:title', content: 'OpenWrite — WYSIWYG Editor for React & Next.js' }],
     ['meta', { name: 'og:description', content: 'Modern, extensible WYSIWYG editor for React and Next.js with 40+ toolbar items, plugin system, dark mode, i18n, and import/export.' }],
