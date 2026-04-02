@@ -30,8 +30,17 @@
 }
 
 @media (max-width: 768px) {
-  .VPHero .name {
+  .VPHero .image-container {
     display: none !important;
+  }
+
+  .VPHero .container {
+    padding-top: 8rem !important;
+  }
+
+  .VPHero .name {
+    font-size: 3rem !important;
+    line-height: 1.2 !important;
   }
 }
 
